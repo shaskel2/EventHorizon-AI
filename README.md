@@ -1,6 +1,8 @@
 # EventHorizon-AI: Neural Simulation & Analytics
 **Simulating Optical Analogues of Hawking Radiation using Physics-Informed Neural Networks (PINNs)**
 
+![Dashboard Preview](dashboard_pic.jpg)
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg)
 ![Dash](https://img.shields.io/badge/Dash-Plotly-008080.svg)
