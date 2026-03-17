@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pth
+.DS_Store
+data/processed/
